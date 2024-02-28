@@ -1,5 +1,4 @@
 # frontend-mentor
- projects created using Frontend Mentor
 
 Here will be some projects carried out by Frontend Mentor.
 
